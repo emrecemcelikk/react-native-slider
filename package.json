@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "prop-types": "^15.5.6",
-    "depdeprecated-react-native-prop-types": ""
+    "depdeprecated-react-native-prop-types": "2.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
